@@ -1,0 +1,8 @@
+.navbar-expand-lg {
+background-color:purple;
+}
+.col-sm-4 {
+    border: 1px #ccc solid;
+    background-color: yellow;
+    text-align: center;
+  }
